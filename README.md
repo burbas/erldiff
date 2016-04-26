@@ -1,2 +1,5 @@
 # erldiff
-Simple module for displaying difference between erlang terms
+
+Usage:
+
+`1> erldiff:diff(Term1, Term2)`
